@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+
+    <!--for the test instruction-->
+    <string name="test_instruction">Provide your name and class to answer this physics Quiz below</string>
+
+    <!--For name and class-->
+    <string name="name">Name:</string>
+    <!--name hint-->
+    <string name="nhint">Please provide your name</string>
+    <string name="anshint">Please provide your answer</string>
+
+    <string name="student_class">Class:</string>
+    <!--class hint-->
+    <string name="chint">Please provide your class</string>
+
+<!--Note the correct answers comes after each question number-->
+    <!-- Q1 a-->
+    <string name="q1">1. Nuclear sizes are expressed in a unit named</string>
+    <!--Options-->
+    <string name="q1a">A. Fermi</string>
+    <string name="q1b">B. Newton</string>
+    <string name="q1c">C. Tesla</string>
+
+    <!--Q2 c-->
+    <string name="q2">2. Light from the Sun reaches us in nearly</string>
+    <!--Options-->
+    <string name="q2a">A. 2 minutes</string>
+    <string name="q2b">B. 4 minutes</string>
+    <string name="q2c">C. 8 minutes</string>
+
+    <!--Q3 a,c-->
+    <string name="q3">3. Electrical current is measured in </string>
+    <!--Options-->
+    <string name="q3a">A. A</string>
+    <string name="q3b">B. Ohms</string>
+    <string name="q3c">C. Amperes</string>
+
+    <!--Q4 b,c-->
+    <string name="q4">4. In which ways can an object accelerate</string>
+    <!--Options-->
+    <string name="q4a">A. The mass of the object</string>
+    <string name="q4b">B. A change in velocity</string>
+    <string name="q4c">C. A change in direction</string>
+    <!--Q5 1-->
+    <string name="q5">5. How many moon(s) does the earth have?</string>
+
+    <!--Q6 Physicist-->
+    <string name="q6">6. Ap person who studies physics is known as a?</string>
+
+    <!--buttons-->
+    <string name="buttonCheckResult">Check Results</string>
+    <string name="buttonReset">Try Again</string>
+
+</resources>
