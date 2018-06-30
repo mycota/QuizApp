@@ -22,5 +22,5 @@ Recommendations:
 You may be an advance developer than I am and upon reviewing my code found some irregulaties,
 please let me kwon so I can improve it. Email: adamumh@gmail.com
 
-Google Drive link to the apk:  
+Google Drive link to the apk: https://drive.google.com/open?id=1Yb0Xp5lCU6WU3X_6LmTzTZjaBWCSj_rI 
 
